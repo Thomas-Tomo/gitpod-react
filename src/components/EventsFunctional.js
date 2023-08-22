@@ -13,4 +13,6 @@ function EventsFunctional() {
   )
 }
 
+console.log("Hello Fix")
+
 export default EventsFunctional
