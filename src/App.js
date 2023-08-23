@@ -1,13 +1,11 @@
 import './App.css';
-import EventsClass from './components/EventsClass';
-import EventsFunctional from './components/EventsFunctional';
+import NestingComponents from './components/NestingComponents';
 
 
 function App() {
   return (
     <div className="App">
-        <EventsFunctional />
-        <EventsClass />
+        <NestingComponents />
     </div>
   );
 }
