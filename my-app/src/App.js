@@ -1,13 +1,10 @@
 import './App.css';
-import EventsClass from './components/EventsClass';
-import EventsFunctional from './components/EventsFunctional';
-
+import RenderingLists from "./components/RenderingLists";
 
 function App() {
   return (
     <div className="App">
-        <EventsFunctional />
-        <EventsClass />
+        <RenderingLists />
     </div>
   );
 }
