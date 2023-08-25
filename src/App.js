@@ -1,10 +1,10 @@
 import './App.css';
-import LifeCyclesCDM from "./components/LifeCyclesCDM";
+import UncontrolledForm from './components/UncontrolledForm';
 
 function App() {
   return (
     <div className="App">
-        <LifeCyclesCDM />
+        <UncontrolledForm />
     </div>
   );
 }
