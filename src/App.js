@@ -1,10 +1,10 @@
 import './App.css';
-import UncontrolledForm from './components/UncontrolledForm';
+import ControlledFormsHook from './components/ControlledFormsHook';
 
 function App() {
   return (
     <div className="App">
-        <UncontrolledForm />
+        <ControlledFormsHook />
     </div>
   );
 }
